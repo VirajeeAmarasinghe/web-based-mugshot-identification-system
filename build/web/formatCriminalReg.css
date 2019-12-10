@@ -1,0 +1,58 @@
+body{
+    background-color: black;    
+}
+
+#registration_form{
+    color:white;
+    margin-left: 22em;
+    background-color:gray;
+    border:gray solid thin;
+    border-radius:0.3em;
+    padding-left:1.5em;
+    width:35em;
+    padding-bottom: 1.5em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.headline{
+    width:8em;
+}
+
+.valueFields{
+    width:15em;
+}
+
+.fields{
+    width:18em;
+    height:1.5em;   
+}
+
+.buttons{
+    background-color:#424040;
+    color:gray;
+    border:none;
+    width:10em;
+    font-size:0.8em;	
+    border-radius:0.3em;
+    padding: 0.5em;   
+    cursor: pointer;
+    margin-left: 1em;
+}
+
+#message_div{
+    width:33em;	
+    font-size:0.9em;
+    padding:0.2em;
+    border-radius:0.1em;
+    height:auto;
+    visibility:visible;
+    color:#820507;
+    padding-left:0.3em;    
+}
+
+#rMale,#rFemale{
+    margin-left: -8em;
+}
+
+

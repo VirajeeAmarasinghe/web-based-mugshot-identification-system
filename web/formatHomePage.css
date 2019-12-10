@@ -1,0 +1,94 @@
+body{
+    margin:0;
+    padding:0;	
+    width:100%;
+}
+
+#first_div{
+    background:#1b1b1b;    
+    height:50px; 
+    border-style:solid;
+    border-color:#1b1b1b;    
+}
+
+#first_div ul{
+    list-style-type:none;
+    float:right;
+    padding-right:20px;  
+
+}
+
+#first_div li{
+    display:inline-block;
+    margin-left:10px;  
+    margin-right:10px;    
+    font-size:large; 
+    font-weight:bold;
+    color:#F8F0F1;
+}
+
+#first_div a{
+    text-decoration:none;
+    font-size:large; 
+    font-weight:bold;
+    color:#F8F0F1;    
+}
+
+#welcome_title{
+    padding-right: 420px;
+}
+
+#second_div{
+    background:#333333; 
+    height:70px; 
+    border-style:solid;
+    border-color:#333333;
+}
+
+#second_div ul{
+    list-style-type:none;
+    float:right;
+    padding-right:20px;  
+    padding-top: 10px;
+}
+
+#second_div li{
+    display:inline-block;
+    margin-left:10px;  
+    margin-right:10px;    
+    font-size:large; 
+    font-weight:bold;
+    color:#F8F0F1;
+}
+
+#second_div a{
+    text-decoration:none;
+    font-size:large; 
+    font-weight:bold;
+    color:#F8F0F1;    
+}
+
+#footer{
+    border:#222222;
+    border-style:solid;	
+    border-width:thin;   
+    height:auto;
+    background:#222222;	
+}
+
+#footer_para{
+    height:auto;
+    width:auto;
+    margin-left:10px; 
+}
+
+#topBanner{
+    background-color: black;     
+}
+
+#topBanner img{    
+    width:84.2em;    
+    height: 30em;    
+}
+
+

@@ -1,0 +1,163 @@
+body{
+    background-color: black;   
+}
+
+#searching_form{
+    color:white;
+    margin-left: 14em;
+    background-color:gray;
+    border:gray solid thin;
+    border-radius:0.3em;
+    padding-left:1.5em;
+    width:55em;
+    padding-bottom: 1.5em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    height:520px;    
+}
+
+#searching_form_after_click{
+    color:white;
+    margin-left: 14em;
+    background-color:gray;
+    border:gray solid thin;
+    border-radius:0.3em;
+    padding-left:1.5em;
+    width:55em;
+    padding-bottom: 1.5em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    height:950px;
+}
+
+.buttons{
+    background-color:#424040;
+    color:gray;
+    border:none;
+    width:10em;
+    font-size:0.8em;	
+    border-radius:0.3em;
+    padding: 0.5em;   
+    cursor: pointer;
+    margin-left: 1em;
+}
+
+#uploading_form_area{
+    display:inline-block;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+#buttons_group_2{
+    margin-top: 1em;
+    margin-left: 3em;
+}
+
+#buttons_group_3{
+    margin-top: 1em;
+    margin-left: 0.5em;
+}
+
+#percentage_section{       
+    margin-left: 1em;
+    font-size: 1.5em; 
+    visibility: visible;
+    margin-top: 1em;
+}
+
+
+#matching_image{
+    display: inline-block;
+    float: right;
+    margin-top: 2em;
+    margin-right: 6em;
+}
+
+#visible_sec{
+    visibility: hidden;
+}
+
+.image{
+    border: #333333 solid thick;
+    width:300px;
+    height:400px;
+}
+
+.display_after{
+    width:200px;
+    height:300px;
+    border:#333333 solid thick;
+}
+
+.displayImages_2{
+    width:200px;
+    height:300px;
+}
+
+.next{
+    margin-top: 5em;    
+}
+
+#display_section_1{
+    display: inline-block; 
+    margin-right: 4.4em;
+}
+
+#display_section_2{
+    display: inline-block;
+    float: right;   
+}
+
+#displayMain_before_click{
+    height: 0px;
+}
+
+#displayMain_after_click{
+    display: inline-block;
+    margin-left: 2.5em;  
+    height: auto;
+}
+
+#display_section_3_before_click{
+    height:0px;    
+}
+
+#display_section_3_after_click{
+    display: inline-block;
+    float: right;
+    margin-right: 4em;   
+}
+
+#next_highest_matching_before_click{
+    visibility: hidden; 
+    height:0px;
+}
+
+#next_highest_matching_after_click{
+    visibility: visible;
+    height:auto;
+}
+
+#message_div{
+    color:#820507;
+    margin-left: 1.2em;
+    margin-top:0.5em;
+    margin-bottom: 0.2em;
+    font-size: 1em;
+}
+
+#footer_before_click{
+    margin-top: 3.35em;
+    border:#222222;
+    border-style:solid;	
+    border-width:thin;   
+    height:auto;
+    background:#222222;	
+}
+
+#select_option_area{
+    width:20em;
+    margin-left:1.2em;
+}
+
+
